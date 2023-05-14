@@ -39,3 +39,7 @@ Gavin cofounded the research consultancy [Arb](https://arbresearch.com/), which 
 
 ## Simon McGreggor McGill
 <div class="team-role">Research Associate</div>
+
+Simon has a multi-disciplinary background in computer science, psychology, artificial life and AI. He has worked as a postdoc researcher in robotics and in biochemical adaptive phenomena. His research interests are primarily in the mathematical foundations of 4E cognitive science - formalising the relationship between physical state and cognitive processes.
+
+
