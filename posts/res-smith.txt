@@ -3,7 +3,7 @@
 4:HL["/_next/static/css/b85be9e705f3c91e.css",{"as":"style"}]
 5:"$Sreact.strict_mode"
 6:"$Sreact.suspense"
-7:I{"id":"6791","chunks":["185:static/chunks/app/layout-44e297e9e1c6766e.js"],"name":"","async":false}
+7:I{"id":"6791","chunks":["185:static/chunks/app/layout-e660c1b4ca06fa3d.js"],"name":"","async":false}
 8:I{"id":"1647","chunks":["272:static/chunks/webpack-b682f33cd845809b.js","549:static/chunks/ba97af87-437b650d2319c70e.js","887:static/chunks/887-bc5a4c1ce8ac1c4f.js"],"name":"","async":false}
 9:I{"id":"1664","chunks":["272:static/chunks/webpack-b682f33cd845809b.js","549:static/chunks/ba97af87-437b650d2319c70e.js","887:static/chunks/887-bc5a4c1ce8ac1c4f.js"],"name":"","async":false}
 a:I{"id":"6615","chunks":["849:static/chunks/849-3b3ce6b1884af69b.js","991:static/chunks/app/posts/page-1caf10189b9535a1.js"],"name":"","async":false}
