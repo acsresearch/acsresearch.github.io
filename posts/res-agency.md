@@ -1,7 +1,7 @@
 ---
 title: Agency in Markov Chains
 description: An exploration of agency in markov chains, with a focus on the safety of AI
-author: Research Group on Alignment of Complex Systems
+author: Dr. John Smith, Dr. Alice Jones
 date: 2023-04-01
 category: Research
 tags: [AI, Agency, Alignment]
@@ -9,7 +9,7 @@ tags: [AI, Agency, Alignment]
 
 ![](res-agency/res-front.png)
 
-Markov Chains are a powerful tool for modelling stochastic processes. They are widely used in various fields, from economics to genetics, and from computer science to artificial intelligence (AI).
+Markov Chains[^1] are a powerful tool for modelling stochastic processes. They are widely used in various fields, from economics to genetics, and from computer science to artificial intelligence (AI)[^2].
 
 A Markov chain is a mathematical system that models a randomly changing process, such as the stock market or the weather. It consists of a set of states (nodes) and transitions (edges) between them. In a Markov chain, the probability of transitioning from one state to another is determined by the current state, and not by any previous states. This is known as the Markov property.
 
@@ -45,3 +45,9 @@ Now, consider an AI system that is in the state $S_1$. According to the Markov p
 In this article, we have explored the implications of the Markov property for agency in Markov Chains. We have seen that the Markov property implies a lack of agency, as the probability of transitioning from one state to another is determined only by the current state, and not by any previous states. This has implications for the safety of AI systems, as it means that they may not be able to make autonomous decisions.
 
 It is important to consider the implications of the Markov property when designing AI systems. Understanding the implications of this property can help to ensure that AI systems are safe and able to make autonomous decisions.
+
+[^1]: A Markov chain or Markov process is a stochastic model describing a sequence of possible events in which the probability of each event depends only on the state attained in the previous event. See [Wikipedia](https://en.wikipedia.org/wiki/Markov_chain) for more details.
+
+[^2]: This is just another footnote trying to answer the question: Can we nest footnotes?[^4]
+
+[^4]: Appear so! Also the displayed numbers seem to be automatic!

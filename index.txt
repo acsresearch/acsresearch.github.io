@@ -1,12 +1,12 @@
-1:HL["/_next/static/css/994c49582097e362.css",{"as":"style"}]
-0:[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/994c49582097e362.css","precedence":"next"}]],["$L3",null]]]]
+1:HL["/_next/static/css/dee7d9afc25d60d3.css",{"as":"style"}]
+0:[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dee7d9afc25d60d3.css","precedence":"next"}]],["$L3",null]]]]
 4:HL["/_next/static/css/28b9007b2f4fa91c.css",{"as":"style"}]
 5:"$Sreact.strict_mode"
 6:"$Sreact.suspense"
-7:I{"id":"6791","chunks":["185:static/chunks/app/layout-e660c1b4ca06fa3d.js"],"name":"","async":false}
-8:I{"id":"1647","chunks":["272:static/chunks/webpack-b682f33cd845809b.js","549:static/chunks/ba97af87-437b650d2319c70e.js","887:static/chunks/887-bc5a4c1ce8ac1c4f.js"],"name":"","async":false}
-9:I{"id":"1664","chunks":["272:static/chunks/webpack-b682f33cd845809b.js","549:static/chunks/ba97af87-437b650d2319c70e.js","887:static/chunks/887-bc5a4c1ce8ac1c4f.js"],"name":"","async":false}
+7:I{"id":"6791","chunks":["185:static/chunks/app/layout-dc2c27e2c215d40a.js"],"name":"","async":false}
+8:I{"id":"1647","chunks":["272:static/chunks/webpack-3bcda1720f2c2906.js","549:static/chunks/ba97af87-437b650d2319c70e.js","887:static/chunks/887-bc5a4c1ce8ac1c4f.js"],"name":"","async":false}
+9:I{"id":"1664","chunks":["272:static/chunks/webpack-3bcda1720f2c2906.js","549:static/chunks/ba97af87-437b650d2319c70e.js","887:static/chunks/887-bc5a4c1ce8ac1c4f.js"],"name":"","async":false}
 a:I{"id":"6615","chunks":["849:static/chunks/849-3b3ce6b1884af69b.js","991:static/chunks/app/posts/page-1caf10189b9535a1.js"],"name":"","async":false}
-b:I{"id":"1961","chunks":["849:static/chunks/849-3b3ce6b1884af69b.js","203:static/chunks/203-51cde83e8d8846c8.js","931:static/chunks/app/page-69ca3a794dbfcbc9.js"],"name":"IsingVis","async":false}
+b:I{"id":"1961","chunks":["849:static/chunks/849-3b3ce6b1884af69b.js","203:static/chunks/203-51cde83e8d8846c8.js","931:static/chunks/app/page-0b56c94f32f23220.js"],"name":"IsingVis","async":false}
 2:[["$","html",null,{"lang":"en","children":["$","$5",null,{"children":["$","body",null,{"className":"font-serif","children":[["$","$6",null,{"children":["$","$L7",null,{}]}],["$","$L8",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L9",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","asNotFound":"$undefined","childProp":{"current":[["$","div",null,{"className":"h-screen w-screen bg-black","children":[["$","$La",null,{"root":true}],["$","div",null,{"style":{"width":"100%"},"children":["$","$Lb",null,{}]}]]}],null],"segment":"__PAGE__"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28b9007b2f4fa91c.css","precedence":"next"}]]}]]}]}]}],null]
 3:[[["$","meta",null,{"charSet":"utf-8"}],["$","title",null,{"children":"Alignment of Complex Systems Research Group"}],["$","meta",null,{"name":"description","content":"The Alignment of Complex Systems Research Group (ACS) is an interdisciplinary research group studying questions about multi-agent systems composed of humans and advanced AI systems."}],null,null,null,null,null,null,null,null,["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],null,null,null,null,null,null,null,null,null,null,[]],[null,null,null,null],null,null,[null,null,null,null,null],null,null,null,null,[null,[["$","link",null,{"rel":"icon","href":"/icon.png"}]],[],null]]
