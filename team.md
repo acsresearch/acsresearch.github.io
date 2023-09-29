@@ -28,7 +28,7 @@ Mihály studied mathematics, and worked as an SRE at Google. He is interested in
 Clem is working on combining insights from different disciplines to problems in alignment. They studied evolutionary biology, theoretical physics, mathematics, philosophy, and finally ended up with a masters in history of science, specialising in the intertwined histories of computer science and economics. As a result, they are currently reevaluating how to approach explore-exploit tradeoffs. 
 
 ## Nora Ammann
-<div class="team-role">Research & Research Manager</div>
+<div class="team-role">Research Associate</div>
 
 Nora has a Master’s in Philosophy and AI, with a particular interest in philosophy of science, political philosophy, and philosophy of mind–as they pertain to questions in AI risk, governance and alignment. She is interested in what we can learn from the study of intelligent behaviour in currently existing, natural systems towards questions as to the nature, behaviour and risks related to future AI systems. She co-founded ‘Principles of Intelligent Behavior in Biological and Social Systems’ (pibbss.ai) to help  make more research of this type happen. Prior, she has conducted complex systems inspired research on understanding group decision making and political processes.
 
