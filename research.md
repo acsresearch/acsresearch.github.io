@@ -31,3 +31,13 @@ ACS works on developing AI alignment proposals which are based on a realistic un
 
 Consider not just one powerful AGI, or several, but an entire ecosystem of different AI and human-AI systems and services varying in power, specialisation, and agency. From here, we can investigate questions about convergent or contingent properties of such ecosystems, what shapes their trajectory through time, as well as their strategic implications. For example, a period where human-AI teams are more capable than either humans or AI systems on their own might provide a critical window during which we can shape the nature of subsequent, more powerful systems and the institutions and protocols which shape their interactions. ACS’s work explores problems of AI risk and safety from the ecosystems perspective.
 
+## Our Publications
+
+**Jan Kulveit**, **Clem von Stengel**, Roman Leventov: *Predictive Minds: LLMs As Atypical Active Inference Agents.* December 2023, [NeurIPS 2023 SoLaR workshop](https://openreview.net/forum?id=bak7hB0Zv9), [arXiv](https://arxiv.org/abs/2311.10215)
+
+**Nora Ammann**: *Value Malleability and its implication for AI alignment.* December 2023, NeurIPS 2023 MP<sup>2</sup> workshop
+
+Hardik Rajpal, **Clem von Stengel**, Pedro A. M. Mediano, Fernando E. Rosas, Eduardo Viegas, Pablo A. Marquet, Henrik J. Jensen: *Quantifying Hierarchical Selection.* November 2023, [arXiv](https://arxiv.org/abs/2310.20386)
+
+**Nora Ammann**, **Clem von Stengel**: *A Naturalised Account of Planning in Intelligent Systems.* July 2023, [Proceedings of ALIFE 2023](https://direct.mit.edu/isal/proceedings/isal/35/138/116942)
+

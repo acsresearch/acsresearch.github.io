@@ -1,5 +1,5 @@
 ---
-title: "InterLab – Introduction"
+title: "InterLab – a toolkit for research of multi-agent interactions"
 description: "Introduction to InterLab – a toolkit for experiments with multi-agent interactions"
 author: Tomáš Gavenčiak, Ada Böhm, Jan Kulveit
 date: 2024-01-21
