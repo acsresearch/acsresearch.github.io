@@ -5,7 +5,6 @@ author: Tomáš Gavenčiak, Ada Böhm, Jan Kulveit
 date: 2024-01-21
 category: Research
 tags: [InterLab, Agent interactions, Alignment]
-hide: true
 ---
 <img src="interlab-intro/logo3-cut.webp" alt="InterLab Logo" width="350" style="margin: 30pt auto" />
 
