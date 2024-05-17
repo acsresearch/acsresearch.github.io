@@ -21,6 +21,8 @@ Over the past 100 or so years, a large amount of maths has been developed (most 
 
 At ACS, we aim to develop a conceptual framework, which can help us reason about the *relations between agents at different levels of analysis,* i.e. between superagents and their subagents. What we want is a formalism which is good for thinking about both upward and downward intentionality - something akin to ‘vertical game theory’ or a ‘theory of hierarchical agency’. We believe this understanding is critical to building and integrating AI systems into human socio-economic and political structures in a way that is safe and aligned. 
 
+Our current research in this direction is inspired by ideas originating in the field of *active inference,* which we extending to multi-agent settings, in order to model complex systems, cooperation, and bounded group rationality.
+
 ## Realistic Accounts of how Humans Reason and Value 
 
 ‘Alignment’ or ‘safety’ are properties defined at the interface between a system and its environment, rather than properties intrinsic to a system in isolation. As such, it matters to understand the structural and functional properties of both the system that is to be aligned, as well as what we are aligning it to. However, we could pick out several plausible candidates as targets for what we want to align AI systems to–from individual humans to human groups. In addition, humans, importantly, are not accurately described by fixed or latent utility and belief functions, as the classical rational agent model suggests. Overall, current theorising on the appropriate targets of alignment and their structural properties is inadequate for understanding the subtleties that arise when tackling the problem of AI alignment. 
