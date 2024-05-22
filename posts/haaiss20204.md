@@ -9,9 +9,9 @@ tags: [Alignment, HAAISS]
 
 The intended audience of the school are people interested in learning more about the AI alignment topics, PhD students, researchers working in ML/AI outside academia, and talented students.
 
-The school is jointly organized by ACS research, the Centre for Theoretical Study, Daniel Filan, and many volunteers.
+The school is jointly organized by ACS research, the Centre for Theoretical Study at Charles University, Daniel Filan, and many volunteers, and is supported by a grant from the Long-Term Future Fund.
 
-## Format of the school
+## Program of the school
 
 The school is focused on teaching and exploring approaches and frameworks, less on presentation of the latest research results. The content of the school is mostly technical – it is assumed the attendees understand current ML approaches and some of the underlying theoretical frameworks.
 
@@ -26,17 +26,14 @@ This year, the school will cover these main topics:
 
 The school consists of lectures and topical series, focused smaller-group workshops and discussions, expert panels, and opportunities for networking, project brainstorming and informal discussions.
 
-Detailed program of the school will be announced shortly before the event. See [the website](https://humanaligned.ai/index-2024.html) for a program outline and e.g. the program of the previous school for an illustration of the program content and structure.
- 
 ## Confirmed speakers
 
 * Stephen Casper – Algorithmic Alignment Group, MIT.
 * Stanislav Fort – Google DeepMind.
 * Jesse Hoogland – Timaeus.
-* Jan Kulveit – Alignment of Complex Systems, Charles University.
+* Neel Nanda - Google DeepMind.
 * Mary Phuong – Google DeepMind.
 * Deger Turan – AI Objectives Institute and Metaculus.
 * Vikrant Varma – Google DeepMind.
-* Neel Nanda - Google DeepMind.
 
 (more to be announced later)
