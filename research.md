@@ -43,3 +43,9 @@ Hardik Rajpal, **Clem von Stengel**, Pedro A. M. Mediano, Fernando E. Rosas, Edu
 
 **Nora Ammann**, **Clem von Stengel**: *A Naturalised Account of Planning in Intelligent Systems.* July 2023, [Proceedings of ALIFE 2023](https://direct.mit.edu/isal/proceedings/isal/35/138/116942)
 
+<!-- Raymond Douglas, Andis Draguns, **Tomáš Gavenčiak**: *Mitigating the Problem of Strong Priors in LMs with Context Extrapolation.* January 2024, [arXiv](https://arxiv.org/abs/2401.17692) -->
+
+Walter Laurito, Benjamin Davis, Peli Grietzer, **Tomáš Gavenčiak**, **Ada Böhm**, **Jan Kulveit**: *AI AI Bias: Large Language Models Favor Their Own Generated Content.* July 2024, [arXiv](https://arxiv.org/abs/2407.12856) and ICML 2024 HADMS workshop
+
+David Hyland, **Tomáš Gavenčiak**, Lancelot Da Costa, Conor Heins, Vojtech Kovarik, Julian Gutierrez, Michael J. Wooldridge, **Jan Kulveit**: *Free-Energy Equilibria: Toward a Theory of Interactions Between Boundedly-Rational Agents.* July 2024, [ICML 2024 MHFAIA workshop](https://openreview.net/pdf?id=4Ft7DcrjdO), [poster](media/FEE-ICML-2024-poster.pdf)
+
