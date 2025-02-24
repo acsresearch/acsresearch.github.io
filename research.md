@@ -35,6 +35,7 @@ Consider not just one powerful AGI, or several, but an entire ecosystem of diffe
 
 ## <a name="our-publications"></a>Our Publications
 
+Lewis Hammond and collective (incl **Tomáš Gavenčiak**, **Jan Kulveit**): *Multi-Agent Risks from Advanced AI.* Feb 2025, [arXiv](https://arxiv.org/abs/2502.14143), [announcement](https://www.cooperativeai.com/post/new-report-multi-agent-risks-from-advanced-ai), [NeurIPS 2023 Multi-Agent Security workshop keynote](https://neurips.cc/virtual/2023/82192)
 
 **Jan Kulveit**, Raymond Douglas, **Nora Ammann**, Deger Turan, David Krueger, David Duvenaud: *Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development.* Jan 2025, [arXiv](https://arxiv.org/abs/2501.16946), [website](https://gradual-disempowerment.ai/)
 
