@@ -2,35 +2,24 @@
 title: ACS Research Program
 ---
 
-Our research investigates the dynamics of intelligence across multiple scales—from individual agents to complex, civilization-scale systems. We aim to develop the foundational understanding and conceptual frameworks necessary to navigate the systemic risks posed by advanced AI and ensure that the evolution of human-AI ecosystems remains aligned with human values.
-
 Our research seeks to build towards the following goals:
 
 * A science of the space of intelligent systems
-* Understanding and mitigating the risk of Gradual Disempowerment resulting from incremental AI advancement.
-* Study of "AI Sociology" — study of collective behaviour between humans, between humans and AIs, and between AI systems.
-* Naturalised theories of agency that account for the multi-scale nature of agentic behaviour (Hierarchical Agency).
-* Nuanced accounts of how humans reason, act, and value as it pertains to solving the AI alignment problem.
+* Naturalised theories of agency, including theories that account for the multi-scale nature of agentic behaviour
+* Nuanced accounts of how humans reason, act and value as it pertains to solving the AI alignment problem
+* An understanding of the underlying principles that govern collective behaviour between humans, between humans and AIs, and between AI systems
 
-## Gradual Disempowerment 
+## A science of the space of intelligent systems
 
-A primary focus of our research addresses the systemic risks posed by the incremental advancement and proliferation of AI. While much AI safety discourse focuses on abrupt takeover scenarios, we investigate the dynamics of 'gradual disempowerment.' This describes a process where human influence over crucial societal systems—including the economy, culture, and governance—is irreversibly eroded, even without coordinated power-seeking by AI systems.
+We seek to build systematic understanding of which properties of intelligent behaviour are universal, convergent or local across a wide range of systems, scales and substrates. This understanding forms the basis for asking the right sorts of questions about the risks, potentials and design imperatives of advanced AI systems. 
 
- Our work aims to develop methods for measuring disempowerment and exploring technical and governance strategies to maintain meaningful human agency.
+To this end, we draw on a range of sophisticated thinking that has already been done, including in evolutionary biology, cognitive science, statistical physics, economics, ecology, cybernetics and information theory. By integrating and build on these traditions, we aim to better understand the trajectory space for advanced AI systems.
 
-## Ecosystems of Intelligence and AI Sociology
+## Hierarchical Agency
 
-We are moving beyond the study of individual AI agents toward understanding the complex dynamics of entire ecosystems of intelligence. This involves analyzing interactions between diverse AI systems (such as LLMs), human-AI teams, and existing human institutions.
+Over the past 100 or so years, a large amount of maths has been developed (most of it under the name of Game Theory) to help us describe the *relations between agents at the same level of analysis.* At the same time, many systems have several levels of analysis at which their behaviour could be sensibly described and explained. For instance, we can usefully model a company as an agent, or its employees; a social movement, or its followers; a nation-state, or its political class; etc. 
 
-We seek to build a systematic understanding of which properties of intelligent behaviour are universal, convergent, or local across these ecosystems, scales, and substrates. Drawing on traditions including evolutionary biology, cognitive science, statistical physics, economics, ecology, and cybernetics, we are developing a framework for "AI Sociology."
-
-This approach investigates the emergent properties of these complex adaptive systems, the principles governing their collective behavior, and the factors that shape their trajectories. This understanding is essential for characterizing civilization-scale multi-agent dynamics, anticipating systemic failures, and designing protocols that ensure long-term safety.
-
-## Hierarchical Agency 
-
-Many systems have several levels of analysis at which their behaviour could be sensibly described. For instance, we can usefully model a company as an agent, or its employees; a nation-state, or its political class. Over the past 100 or so years, a large amount of maths has been developed (most of it under the name of Game Theory) to help us describe the *relations between agents at the same level of analysis*, but we lack robust frameworks for understanding interactions across different scales.
-
-At ACS, we aim to develop a conceptual framework to reason about the relations between agents at different levels of analysis, i.e., between superagents and their subagents. We seek a formalism for understanding both upward and downward intentionality—a ‘theory of hierarchical agency’. As AI systems become integral components of these structures, this understanding is critical for analyzing how influence is distributed and ensuring that governance remains robust and aligned.
+At ACS, we aim to develop a conceptual framework, which can help us reason about the *relations between agents at different levels of analysis,* i.e. between superagents and their subagents. What we want is a formalism which is good for thinking about both upward and downward intentionality - something akin to ‘vertical game theory’ or a ‘theory of hierarchical agency’. We believe this understanding is critical to building and integrating AI systems into human socio-economic and political structures in a way that is safe and aligned. 
 
 Our current research in this direction is inspired by ideas originating in the field of *active inference,* which we extending to multi-agent settings, in order to model complex systems, cooperation, and bounded group rationality.
 
@@ -40,16 +29,11 @@ Our current research in this direction is inspired by ideas originating in the f
 
 ACS works on developing AI alignment proposals which are based on a realistic understanding of how humans reason and value in practice and which recognize the hierarchical relationships between these target systems is critical to solving the problem and not something which can be postponed or delegated to AI systems.
 
-## A science of the space of intelligent systems
+## Ecosystems of Intelligence 
 
-We seek to build systematic understanding of which properties of intelligent behaviour are universal, convergent or local across a wide range of systems, scales and substrates. This understanding forms the basis for asking the right sorts of questions about the risks, potentials and design imperatives of advanced AI systems. 
-
-To this end, we draw on a range of sophisticated thinking that has already been done, including in evolutionary biology, cognitive science, statistical physics, economics, ecology, cybernetics and information theory. By integrating and build on these traditions, we aim to better understand the trajectory space for advanced AI systems.
-
+Consider not just one powerful AGI, or several, but an entire ecosystem of different AI and human-AI systems and services varying in power, specialisation, and agency. From here, we can investigate questions about convergent or contingent properties of such ecosystems, what shapes their trajectory through time, as well as their strategic implications. For example, a period where human-AI teams are more capable than either humans or AI systems on their own might provide a critical window during which we can shape the nature of subsequent, more powerful systems and the institutions and protocols which shape their interactions. ACS’s work explores problems of AI risk and safety from the ecosystems perspective.
 
 ## <a name="our-publications"></a>Our Publications
-
-Walter Laurito, Benjamin Davis, Peli Grietzer, **Tomáš Gavenčiak**, **Ada Böhm**, **Jan Kulveit**: *AI-AI Bias: Large Language Models Favor Communications Generated by Large Language Models.* July 2025, [PNAS](https://www.pnas.org/doi/10.1073/pnas.2415697122). Previous versions at [arXiv](https://arxiv.org/abs/2407.12856), [ICML 2024 HADMS workshop](https://humans-algs-society.github.io/)
 
 Lewis Hammond and collective (incl **Tomáš Gavenčiak**, **Jan Kulveit**): *Multi-Agent Risks from Advanced AI.* Feb 2025, [arXiv](https://arxiv.org/abs/2502.14143), [announcement](https://www.cooperativeai.com/post/new-report-multi-agent-risks-from-advanced-ai), [NeurIPS 2023 Multi-Agent Security workshop keynote](https://neurips.cc/virtual/2023/82192)
 
@@ -60,6 +44,8 @@ Lewis Hammond and collective (incl **Tomáš Gavenčiak**, **Jan Kulveit**): *Mu
 Lancelot Da Costa, **Tomáš Gavenčiak**, David Hyland, Mandana Samiei, Cristian Dragos-Manta, Candice Pattisapu, Adeel Razi, Karl Friston: *Possible principles for aligned structure learning agents.* October 2024, [arXiv](https://arxiv.org/abs/2410.00258)
 
 David Hyland, **Tomáš Gavenčiak**, Lancelot Da Costa, Conor Heins, Vojtech Kovarik, Julian Gutierrez, Michael J. Wooldridge, **Jan Kulveit**: *Free-Energy Equilibria: Toward a Theory of Interactions Between Boundedly-Rational Agents.* July 2024, [ICML 2024 MHFAIA workshop](https://openreview.net/pdf?id=4Ft7DcrjdO) ([poster](media/FEE-ICML-2024-poster.pdf)), and [5th International Workshop on Active Inference](https://iwaiworkshop.github.io/) (best poster award)
+
+Walter Laurito, Benjamin Davis, Peli Grietzer, **Tomáš Gavenčiak**, **Ada Böhm**, **Jan Kulveit**: *AI-AI Bias: Large Language Models Favor Communications Generated by Large Language Models.* July 2024, [arXiv](https://arxiv.org/abs/2407.12856), [ICML 2024 HADMS workshop](https://humans-algs-society.github.io/); and July 2025, [PNAS](https://www.pnas.org/doi/10.1073/pnas.2415697122)
 
 Raymond Douglas, Andis Draguns, **Tomáš Gavenčiak**: *Mitigating the Problem of Strong Priors in LMs with Context Extrapolation.* January 2024, [arXiv](https://arxiv.org/abs/2401.17692)
 
