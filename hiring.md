@@ -7,7 +7,7 @@ ACS Research is hiring for several full-time research positions focused on under
 the systemic risks posed by advanced AI. We are looking for exceptional researchers to join our team.  
 
 Currently, we are hiring for three roles:
-* Research Fellow - Gradual Disempowerment
+* [Research Fellow - Gradual Disempowerment](#research-fellow---gradual-disempowerment)
 * Researcher - LLM Psychology & Sociology
 * Machine Learning Researcher - AI Psychology & Agent Foundations
 
