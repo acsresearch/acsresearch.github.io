@@ -8,7 +8,7 @@ the systemic risks posed by advanced AI. We are looking for exceptional research
 
 Currently, we are hiring for three roles:
 * [Research Fellow - Gradual Disempowerment](#research-fellow---gradual-disempowerment)
-* Researcher - LLM Psychology & Sociology
+* [Researcher - LLM Psychology & Sociology](#researcher---llm-psychology--sociology)
 * Machine Learning Researcher - AI Psychology & Agent Foundations
 
 [Apply](https://forms.gle/JxMbd9WBP6DiRezQA)
