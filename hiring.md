@@ -17,7 +17,7 @@ Location: Prague, London or San Francisco Bay Area
 
 ---
 
-## Research Fellow - Gradual Disempowerment
+## [Research Fellow - Gradual Disempowerment]
 
 This is a full-time role focused on advancing our understanding of systemic existential risks from incremental AI development. The position offers a unique opportunity to conduct cutting-edge research on the **gradual disempowerment** of humanity through the displacement of human participation in societal systems. The initial appointment is for 1 or 2 years, with a competitive salary.
 
