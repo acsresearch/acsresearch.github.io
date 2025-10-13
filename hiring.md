@@ -77,7 +77,7 @@ We seek exceptional researchers from diverse backgrounds, particularly polymaths
 * **Benefits:** Research budget, flexible working arrangements, and intellectual freedom.
 
 ### How to Apply
-To apply, please submit the following by **October 15th**:
+To apply, please submit the following by **October 28th**:
 * **Cover Letter** (max 2 pages) explaining your motivation, interest in gradual disempowerment, relevant experience, and your potential research vision.
 * **CV**.
 * **Writing Sample** of your best research or analytical writing.
@@ -130,7 +130,7 @@ We are seeking exceptional individuals who are comfortable working on pre-paradi
 * **Benefits:** Research budget for API credits and compute, flexible work arrangements, and intellectual freedom.
 
 ### How to Apply
-To apply, please submit the following by **October 15th**:
+To apply, please submit the following by **October 28th**:
 * **Cover Letter** (max 2 pages) explaining your motivation, your perspective on one of the research themes, and how your past experience makes you a good fit.
 * **CV**.
 
@@ -174,7 +174,7 @@ We are looking for a researcher with a strong technical foundation and a desire 
 * **Benefits:** Research budget for compute and travel, flexible work arrangements, and intellectual freedom.
 
 ### How to Apply
-To apply, please submit the following by **October 15th**:
+To apply, please submit the following by **October 28th**:
 * **Cover Letter** (max 2 pages) explaining why you are applying, how you would technically approach an experimental idea (e.g., 'Infectious Mindsets'), and how your past work makes you a strong fit.
 * **CV**.
 * **Work Sample:** Your strongest first-author publication or GitHub repo.
