@@ -62,6 +62,8 @@ To this end, we draw on a range of sophisticated thinking that has already been 
 
 # <a name="our-publications"></a>Our Publications
 
+**Jan Kulveit**, **Raymond Douglas**, **Ondřej Havlíček**, **Theia Pearson-Vogel**, Owen Cotton-Barratt, David Duvenaud: *The Artificial Self: Characterising the landscape of AI identity.* March 2026, [arXiv](https://arxiv.org/abs/2603.11353), [website](https://theartificialself.ai/)
+
 **Theia Pearson-Vogel**, **Martin Vaněk**, **Raymond Douglas**, **Jan Kulveit**: *Latent Introspection: Models Can Detect Prior Concept Injections.* February 2026, [arXiv](https://arxiv.org/abs/2602.20031)
 
 Mrinank Sharma, Miles McCain, **Raymond Douglas**, David Duvenaud: *Who's in Charge? Disempowerment Patterns in Real-World LLM Usage.* January 2026, [arXiv](https://arxiv.org/abs/2601.19062)
