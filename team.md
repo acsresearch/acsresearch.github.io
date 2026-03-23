@@ -17,17 +17,23 @@ Raymond's main areas of interest are understanding the civilisational ramificati
 
 Martin is helping set up and run ACS Research. He holds a Master's degree in theoretical physics from Charles University in Prague. Before joining ACS, he spent several years as the Executive Director of an NGO running international physics competitions reaching thousands of participants worldwide. 
 
-## LLM Psychology Team
+## LLM Psychology and Sociology Team
 
 <!-- ### Theia Vogel
-<div class="team-role">LLM Psychology Researcher</div>
+<div class="team-role">LLM Psychology and Sociology Researcher</div>
 
 Theia is the creator of [repeng](https://github.com/vgel/repeng), an open-source library for representation engineering control vectors, and a 2024 New Science fellow. Their research focuses on understanding the internal states and behaviors of language models, including whether models possess introspective awareness. They have a background in computational linguistics. -->
 
 ### Ondřej Havlíček
-<div class="team-role">LLM Psychology Researcher</div>
+<div class="team-role">LLM Psychology and Sociology Researcher</div>
 
 Ondřej holds a PhD in cognitive science from LMU Munich, where he studied the sense of agency — how humans experience themselves as authors of their actions. He conducted post-doctoral research at the Max Planck Institute for Human Cognitive and Brain Sciences and was affiliated with the Czech National Institute of Mental Health. Before joining ACS, he spent eight years as a data science architect. At ACS, he applies experimental cognitive science methods to study the psychology of large language models.
+
+### Annie Stephenson
+<div class="team-role">LLM Psychology and Sociology Researcher</div>
+
+Annie holds a PhD in applied physics from Harvard University. As a postdoc at Princeton University, she studied emergent collective behavior in online communities. At ACS, she applies methods from complex systems, physics, and ecology to study the psychology and sociology of large language models. She is interested in understanding how cooperation, culture, and other emergent behaviors will change as AI becomes embedded in human social systems.
+
 
 ## Other Affiliates
 
