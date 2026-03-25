@@ -19,10 +19,10 @@ Martin is helping set up and run ACS Research. He holds a Master's degree in the
 
 ## LLM Psychology and Sociology Team
 
-<!-- ### Theia Vogel
+### Theia Vogel
 <div class="team-role">LLM Psychology and Sociology Researcher</div>
 
-Theia is the creator of [repeng](https://github.com/vgel/repeng), an open-source library for representation engineering control vectors, and a 2024 New Science fellow. Their research focuses on understanding the internal states and behaviors of language models, including whether models possess introspective awareness. They have a background in computational linguistics. -->
+Theia Vogel is the creator of the [repeng](https://github.com/vgel/repeng) open-source library for representation engineering, and a 2024 New Science fellow. Their research explores how language models represent and reason about themselves—from how personas are represented and manipulated to whether models can accurately introspect on their own internal states. They have a background in computational linguistics, and live in Seattle.
 
 ### Ondřej Havlíček
 <div class="team-role">LLM Psychology and Sociology Researcher</div>
