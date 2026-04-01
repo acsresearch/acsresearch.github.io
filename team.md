@@ -35,49 +35,43 @@ Ondřej holds a PhD in cognitive science from LMU Munich, where he studied the s
 Annie holds a PhD in applied physics from Harvard University. As a postdoc at Princeton University, she studied emergent collective behavior in online communities. At ACS, she applies methods from complex systems, physics, and ecology to study the psychology and sociology of large language models. She is interested in understanding how cooperation, culture, and other emergent behaviors will change as AI becomes embedded in human social systems.
 
 
-## Other Affiliates
+## Associated Researchers
 
 ### Vojtěch Kovařík
-<div class="team-role">Affiliated Researcher</div>
+<div class="team-role">Researcher</div>
 
 Vojtěch holds a PhD in mathematics from Charles University. He has held postdoctoral positions at Czech Technical University and Carnegie Mellon University's Foundations of Cooperative AI Lab, and did research at Oxford's Future of Humanity Institute. His research focuses on game-theoretic approaches to AI safety, formal analysis of AI evaluation protocols, and risks from runaway optimisation.
 
 ### Tomáš Gavenčiak
-<div class="team-role">Researcher & Research Engineer</div>
+<div class="team-role">Researcher</div>
 
 Tomáš received his PhD in theoretical computer science. He has since conducted research in both theoretical and applied areas including game theory, algorithms, data structures, computational genomics, and Bayesian modelling. His current interests focus on modelling human and artificial cognition, bounded rationality, and experiments investigating games, agency, and language models.
 
 ### Gavin Leech
 <div class="team-role">Research Associate</div>
 
-Gavin cofounded the research consultancy [Arb](https://arbresearch.com/), which specialises in forecasting and technical policy. He holds a PhD in machine learning. He advised the UK government on Covid and AI policy.
-
-
-## Past Affiliates
+Gavin holds a PhD in AI from the University of Bristol and cofounded the research consultancy [Arb](https://arbresearch.com/), which specialises in forecasting, ML research, and technical policy. He co-authored *The Scaling Era: An Oral History of AI, 2019–2025* with Dwarkesh Patel. During the Covid pandemic, he shifted to epidemiology, publishing in PNAS, Nature Communications, and PLoS Computational Biology, and advised the UK government on Covid and AI policy. He is a Fellow at the Cosmos Institute.
 
 ### Simon McGregor
 <div class="team-role">Research Associate</div>
 
-<!-- Simon has a multi-disciplinary background in computer science, psychology, artificial life and AI. He has worked as a postdoc researcher in robotics and in biochemical adaptive phenomena. His research interests are primarily in the mathematical foundations of 4E cognitive science - formalising the relationship between physical state and cognitive processes. -->
+Simon has a multi-disciplinary background in computer science, psychology, artificial life and AI. He has worked as a postdoc researcher in robotics and in biochemical adaptive phenomena. His research interests are primarily in the mathematical foundations of 4E cognitive science — formalising the relationship between physical state and cognitive processes.
+
+
+## Alumni
 
 ### Mihály Bárász
-<div class="team-role">Research Engineer</div>
 
-<!-- Mihály studied mathematics, and worked as an SRE at Google. He is interested in formal proof systems, low level systems engineering, video games as an art medium, rock climbing, and pigeons. -->
+Mihály contributed to ACS as a research engineer, working on the InterLab multi-agent interaction toolkit and bringing his background in mathematics and formal methods from Google and MIRI. He cofounded an IT consulting company in Zurich and serves as Camp Director for the Program on AI and Reasoning (PAIR).
 
 ### Nora Ammann
-<div class="team-role">Research Associate</div>
 
-<!-- Nora has a Master's in Philosophy and AI, with a particular interest in philosophy of science, political philosophy, and philosophy of mind–as they pertain to questions in AI risk, governance and alignment. She is interested in what we can learn from the study of intelligent behaviour in currently existing, natural systems towards questions as to the nature, behaviour and risks related to future AI systems. She co-founded 'Principles of Intelligent Behavior in Biological and Social Systems' (pibbss.ai) to help  make more research of this type happen. Prior, she has conducted complex systems inspired research on understanding group decision making and political processes. -->
+Nora co-authored foundational ACS work on gradual disempowerment (ICML 2025), naturalised accounts of planning (ALIFE 2023), and value malleability (NeurIPS 2023), while also co-founding PIBBSS to support interdisciplinary AI safety research. She is now a Technical Specialist on the Safeguarded AI programme at the UK's Advanced Research and Invention Agency (ARIA).
 
 ### Ada Böhm
-<div class="team-role">Research Engineer</div>
 
-<!--
-Ada received a PhD in computer science and has worked 10 years for the Czech National Supercomputing Center. She is interested in AI safety, computational ergonomics, and various programming projects.
--->
+Ada co-developed the InterLab multi-agent interaction toolkit and co-authored research on AI-AI communication bias published in PNAS. She continues her work in high-performance computing at IT4Innovations National Supercomputing Center and co-founded lern.cz, a technical training company.
 
 ### Clem von Stengel
-<div class="team-role">Researcher</div>
 
-<!-- Clem is working on combining insights from different disciplines to problems in alignment. They studied evolutionary biology, theoretical physics, mathematics, philosophy, and finally ended up with a masters in history of science, specialising in the intertwined histories of computer science and economics. As a result, they are currently reevaluating how to approach explore-exploit tradeoffs.  -->
+Clem brought cross-disciplinary perspectives from evolutionary biology, physics, and history of science to ACS, co-authoring work on hierarchical selection, naturalised planning, and LLMs as active inference agents. They went on to direct the PIBBSS fellowship programme and in 2025 co-founded Conduit Intelligence, a brain-computer interface startup building non-invasive thought-to-text technology.
