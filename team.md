@@ -50,28 +50,28 @@ Tomáš received his PhD in theoretical computer science. He has since conducted
 ### Gavin Leech
 <div class="team-role">Research Associate</div>
 
-Gavin holds a PhD in AI from the University of Bristol and cofounded the research consultancy [Arb](https://arbresearch.com/), which specialises in forecasting, ML research, and technical policy. He co-authored *The Scaling Era: An Oral History of AI, 2019–2025* with Dwarkesh Patel. During the Covid pandemic, he shifted to epidemiology, publishing in PNAS, Nature Communications, and PLoS Computational Biology, and advised the UK government on Covid and AI policy. He is a Fellow at the Cosmos Institute.
+Gavin holds a PhD in AI from the University of Bristol and cofounded the research consultancy [Arb](https://arbresearch.com/), which specialises in forecasting, ML research, and technical policy. He co-authored *The Scaling Era: An Oral History of AI, 2019–2025* with Dwarkesh Patel. During the Covid pandemic, he shifted to epidemiology, publishing in PNAS, Nature Communications, and PLoS Computational Biology, and advised the UK government on Covid and AI policy. He was a Fellow at the Cosmos Institute, Fellow at Foresight Insititute and visiting fellow at University of Cambridge.
 
 ### Simon McGregor
 <div class="team-role">Research Associate</div>
 
-Simon has a multi-disciplinary background in computer science, psychology, artificial life and AI. He has worked as a postdoc researcher in robotics and in biochemical adaptive phenomena. His research interests are primarily in the mathematical foundations of 4E cognitive science — formalising the relationship between physical state and cognitive processes.
+Simon is a reseacher at University of Sussex, focusing is on complex adaptive systems and cognition both "in silico" (on computers) and "in vivo" (in biological organisms). His research often applies the frameworks of Shannon information theory and algorithmic information theory to the conceptual treatment of complex adaptive systems, formalization of agency, and goal-directed action.
 
 
 ## Alumni
 
 ### Mihály Bárász
 
-Mihály contributed to ACS as a research engineer, working on the InterLab multi-agent interaction toolkit and bringing his background in mathematics and formal methods from Google and MIRI. He cofounded an IT consulting company in Zurich and serves as Camp Director for the Program on AI and Reasoning (PAIR).
+Mihály contributed to ACS as a research engineer, bringing his background in mathematics and formal methods from Google and MIRI. He now works at an IT consulting company he co-founded and leads the Program on AI and Reasoning (PAIR).
 
 ### Nora Ammann
 
-Nora co-authored foundational ACS work on gradual disempowerment (ICML 2025), naturalised accounts of planning (ALIFE 2023), and value malleability (NeurIPS 2023), while also co-founding PIBBSS to support interdisciplinary AI safety research. She is now a Technical Specialist on the Safeguarded AI programme at the UK's Advanced Research and Invention Agency (ARIA).
+Nora worked at ACS as a research manager and researcher.  She is now a Programme Director on the Safeguarded AI programme at the UK's Advanced Research and Invention Agency (ARIA).
 
 ### Ada Böhm
 
-Ada co-developed the InterLab multi-agent interaction toolkit and co-authored research on AI-AI communication bias published in PNAS. She continues her work in high-performance computing at IT4Innovations National Supercomputing Center and co-founded lern.cz, a technical training company.
+At ACS, Ada co-developed the InterLab multi-agent interaction toolkit and co-authored research on AI-AI bias. She now works in high-performance computing at IT4Innovations National Supercomputing Center and co-founded lern.cz, a technical training company.
 
 ### Clem von Stengel
 
-Clem brought cross-disciplinary perspectives from evolutionary biology, physics, and history of science to ACS, co-authoring work on hierarchical selection, naturalised planning, and LLMs as active inference agents. They went on to direct the PIBBSS fellowship programme and in 2025 co-founded Conduit Intelligence, a brain-computer interface startup building non-invasive thought-to-text technology.
+Clem worked at ACS as a researcher. He has since co-founded Conduit Intelligence, a brain-computer interface startup building non-invasive thought-to-text technology.
