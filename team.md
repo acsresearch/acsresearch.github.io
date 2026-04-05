@@ -35,7 +35,7 @@ Ondřej holds a PhD in cognitive science from LMU Munich, where he studied the s
 Annie holds a PhD in applied physics from Harvard University. As a postdoc at Princeton University, she studied emergent collective behavior in online communities. At ACS, she applies methods from complex systems, physics, and ecology to study the psychology and sociology of large language models. She is interested in understanding how cooperation, culture, and other emergent behaviors will change as AI becomes embedded in human social systems.
 
 
-## Associated Researchers
+## Researchers
 
 ### Vojtěch Kovařík
 <div class="team-role">Researcher</div>
