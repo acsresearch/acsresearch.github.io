@@ -34,6 +34,23 @@ Ondřej holds a PhD in cognitive science from LMU Munich, where he studied the s
 
 Annie holds a PhD in applied physics from Harvard University. As a postdoc at Princeton University, she studied emergent collective behavior in online communities. At ACS, she applies methods from complex systems, physics, and ecology to study the psychology and sociology of large language models. She is interested in understanding how cooperation, culture, and other emergent behaviors will change as AI becomes embedded in human social systems.
 
+### Ivar Frisch
+<div class="team-role">Researcher / Research Engineer</div>
+
+Ivar is working at the intersection of philosophy of mind, philosophy of computation, and empirical AI research. He holds a MSc in Artificial Intelligence and is interested in how AI systems can serve as objects of philosophical inquiry: particularly around concepts of mind, agency, and identity. His work has been published in Antikythera (MIT Press) and supported by the Cosmos Institute. Previously he worked at TNO and UvA. At ACS, he applies methods from LLM evaluation and multi-agent systems to study persona dynamics and identity stability in large language models.
+
+## Gradual Disempowerment Team
+
+
+### Teodora Chis
+<div class="team-role">Gradual Disempowerment Researcher</div>
+
+Teodora is an emerging technology policy researcher whose current work focuses on the risks of gradual disempowerment from AI and possible mitigations. Before joining ACS Research, she was a Senior Analyst at RAND Europe, where she produced policy research to inform decision-making. Her work spanned AI for science, quantum technology policy, and metascience. Teodora also spent several years designing challenge prize competitions, contributing to programmes on topics spanning urban decarbonisation and plastic waste pollution, and has facilitated tabletop exercises (TTXs) on technology policy strategy topics including AI and biosecurity. She holds a master's degree in Political Science from the Central European University (CEU).
+
+### Dan MacKinlay
+<div class="team-role">Gradual Disempowerment Researcher</div>
+
+Dan holds a PhD from the University of New South Wales, where he worked on tail risk estimation, and an MSc in statistics from ETH Zürich, where we worked on virality and causality. He worked at CSIRO, Australia's national science agency, on AI safety and AI for comprehending physical systems. He recently co-founded the Alignment Journal, an open-access venue for AI safety research. At ACS, he applies tools from statistical inference and dynamical systems to formalise and quantify the mechanisms of gradual disempowerment.
 
 ## Researchers
 
