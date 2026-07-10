@@ -1,0 +1,14 @@
+/* TEAM */
+
+Alignment of Complex Systems Research Group (ACS)
+Site: https://acsresearch.org
+Location: Prague, Czech Republic
+
+/* THANKS */
+
+The ACS Research team and all our collaborators.
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Components: Next.js, React, Tailwind CSS
