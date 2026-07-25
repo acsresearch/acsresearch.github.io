@@ -60,7 +60,7 @@ We seek to build systematic understanding of which properties of intelligent beh
 To this end, we draw on a range of sophisticated thinking that has already been done, including in evolutionary biology, cognitive science, statistical physics, economics, ecology, cybernetics and information theory. By integrating and build on these traditions, we aim to better understand the trajectory space for advanced AI systems.
 
 
-# <a name="our-publications"></a>Our Publications
+# Our Publications
 
 **Jan Kulveit**, **Raymond Douglas**, **Ondřej Havlíček**, **Theia Pearson-Vogel**, Owen Cotton-Barratt, David Duvenaud: *The Artificial Self: Characterising the landscape of AI identity.* March 2026, [arXiv](https://arxiv.org/abs/2603.11353), [website](https://theartificialself.ai/)
 

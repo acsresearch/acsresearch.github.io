@@ -20,7 +20,7 @@ Location: Prague, London or San Francisco Bay Area
 
 ---
 
-## Research Fellow - Gradual Disempowerment <a name="research-fellow---gradual-disempowerment"></a>
+## Research Fellow - Gradual Disempowerment
 
 This is a full-time role focused on advancing our understanding of systemic existential risks from incremental AI development. The position offers a unique opportunity to conduct cutting-edge research on the **gradual disempowerment** of humanity through the displacement of human participation in societal systems. The initial appointment is for 1 or 2 years, with a competitive salary.
 
@@ -92,7 +92,7 @@ The preferred start date is December 2025 or January 2026.
 
 ---
 
-## Researcher - LLM Psychology & Sociology <a name="researcher---llm-psychology--sociology"></a>
+## Researcher - LLM Psychology & Sociology
 
 This is a full-time role focused on pioneering the empirical study of AI "psychology" and "sociology". This is a unique opportunity to design and execute first-of-their-kind experiments exploring the emergent group dynamics and internal states of large language models. The initial appointment is for 1 or 2 years with a competitive salary.
 
@@ -140,9 +140,10 @@ To apply, please submit the following by **October 28th**:
 The preferred start date is December 2025 or January 2026.
 
 [Apply](https://forms.gle/JxMbd9WBP6DiRezQA)
+
 ---
 
-## Machine Learning Researcher - AI Psychology & Agent Foundations <a name="machine-learning-researcher---ai-psychology--agent-foundations"></a>
+## Machine Learning Researcher - AI Psychology & Agent Foundations
 
 This full-time role is focused on building the robust experimental frameworks and ML systems needed to investigate the emergent "psychological" and "sociological" dynamics of AI agents. You will be the **technical cornerstone** of a pioneering research team, responsible for designing and implementing training, fine-tuning, and analysis pipelines. This is an initial 2-year appointment with a competitive salary.
 
