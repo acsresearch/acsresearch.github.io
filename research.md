@@ -7,19 +7,19 @@ Our research investigates the dynamics of intelligence across multiple scales �
 Our two main research areas are:
 
 * **[Gradual Disempowerment](#gradual-disempowerment)** — understanding and mitigating the systemic existential risks from incremental AI advancement.
-* **[LLM Psychology and Sociology](#llm-psychology-and-sociology)** — empirical study of how AI systems "think," form identities, introspect, and interact with each other and with humans.
+* **[LLM Psychology and Sociology](#llm-psychology-and-sociology)** — empirical study of how AI systems “think,” form identities, introspect, and interact with each other and with humans.
 
 We also work on several related topics including [Hierarchical Agency](#hierarchical-agency), [Realistic Accounts of Human Reasoning and Values](#realistic-accounts-of-how-humans-reason-and-value), and building towards [A Science of the Space of Intelligent Systems](#a-science-of-the-space-of-intelligent-systems).
 
 ## Gradual Disempowerment
 
-A primary focus of our research addresses the systemic risks posed by the incremental advancement and proliferation of AI. While much AI safety discourse focuses on abrupt takeover scenarios, we investigate the dynamics of 'gradual disempowerment.' This describes a process where human influence over crucial societal systems — including the economy, culture, and governance — is irreversibly eroded, even without coordinated power-seeking by AI systems.
+A primary focus of our research addresses the systemic risks posed by the incremental advancement and proliferation of AI. While much AI safety discourse focuses on abrupt takeover scenarios, we investigate the dynamics of ‘gradual disempowerment.’ This describes a process where human influence over crucial societal systems — including the economy, culture, and governance — is irreversibly eroded, even without coordinated power-seeking by AI systems.
 
 Our work aims to develop methods for measuring disempowerment and exploring technical and governance strategies to maintain meaningful human agency.
 
 ## LLM Psychology and Sociology
 
-We are empiricaly studying AI "psychology" and "sociology" — investigating the internal states, self-concepts, and social dynamics of large language models. This work draws on cognitive science, psychology, and neuroscience to understand how LLMs model their own identity, whether they possess introspective access to their internal representations, and how personas and mindsets transfer between models.
+We are empiricaly studying AI “psychology” and “sociology” — investigating the internal states, self-concepts, and social dynamics of large language models. This work draws on cognitive science, psychology, and neuroscience to understand how LLMs model their own identity, whether they possess introspective access to their internal representations, and how personas and mindsets transfer between models.
 
 Our research in this area includes:
 * **Introspection and self-awareness** — investigating whether and how language models can detect and report on their own internal states, including concept injections and latent representations.
@@ -35,7 +35,7 @@ Our research in this area includes:
 
 We are moving beyond the study of individual AI agents toward understanding the complex dynamics of entire ecosystems of intelligence. This involves analyzing interactions between diverse AI systems (such as LLMs), human-AI teams, and existing human institutions.
 
-We seek to build a systematic understanding of which properties of intelligent behaviour are universal, convergent, or local across these ecosystems, scales, and substrates. Drawing on traditions including evolutionary biology, cognitive science, statistical physics, economics, ecology, and cybernetics, we are developing a framework for "AI Sociology."
+We seek to build a systematic understanding of which properties of intelligent behaviour are universal, convergent, or local across these ecosystems, scales, and substrates. Drawing on traditions including evolutionary biology, cognitive science, statistical physics, economics, ecology, and cybernetics, we are developing a framework for “AI Sociology.”
 
 This approach investigates the emergent properties of these complex adaptive systems, the principles governing their collective behavior, and the factors that shape their trajectories. This understanding is essential for characterizing civilization-scale multi-agent dynamics, anticipating systemic failures, and designing protocols that ensure long-term safety.
 
@@ -43,13 +43,13 @@ This approach investigates the emergent properties of these complex adaptive sys
 
 Many systems have several levels of analysis at which their behaviour could be sensibly described. For instance, we can usefully model a company as an agent, or its employees; a nation-state, or its political class. Over the past 100 or so years, a large amount of maths has been developed (most of it under the name of Game Theory) to help us describe the *relations between agents at the same level of analysis*, but we lack robust frameworks for understanding interactions across different scales.
 
-At ACS, we aim to develop a conceptual framework to reason about the relations between agents at different levels of analysis, i.e., between superagents and their subagents. We seek a formalism for understanding both upward and downward intentionality — a 'theory of hierarchical agency'. As AI systems become integral components of these structures, this understanding is critical for analyzing how influence is distributed and ensuring that governance remains robust and aligned.
+At ACS, we aim to develop a conceptual framework to reason about the relations between agents at different levels of analysis, i.e., between superagents and their subagents. We seek a formalism for understanding both upward and downward intentionality — a ‘theory of hierarchical agency’. As AI systems become integral components of these structures, this understanding is critical for analyzing how influence is distributed and ensuring that governance remains robust and aligned.
 
 Our current research in this direction is inspired by ideas originating in the field of *active inference,* which we extending to multi-agent settings, in order to model complex systems, cooperation, and bounded group rationality.
 
 ### Realistic Accounts of How Humans Reason and Value
 
-'Alignment' or 'safety' are properties defined at the interface between a system and its environment, rather than properties intrinsic to a system in isolation. As such, it matters to understand the structural and functional properties of both the system that is to be aligned, as well as what we are aligning it to. However, we could pick out several plausible candidates as targets for what we want to align AI systems to — from individual humans to human groups. In addition, humans, importantly, are not accurately described by fixed or latent utility and belief functions, as the classical rational agent model suggests. Overall, current theorising on the appropriate targets of alignment and their structural properties is inadequate for understanding the subtleties that arise when tackling the problem of AI alignment.
+‘Alignment’ or ‘safety’ are properties defined at the interface between a system and its environment, rather than properties intrinsic to a system in isolation. As such, it matters to understand the structural and functional properties of both the system that is to be aligned, as well as what we are aligning it to. However, we could pick out several plausible candidates as targets for what we want to align AI systems to — from individual humans to human groups. In addition, humans, importantly, are not accurately described by fixed or latent utility and belief functions, as the classical rational agent model suggests. Overall, current theorising on the appropriate targets of alignment and their structural properties is inadequate for understanding the subtleties that arise when tackling the problem of AI alignment.
 
 ACS works on developing AI alignment proposals which are based on a realistic understanding of how humans reason and value in practice and which recognize the hierarchical relationships between these target systems is critical to solving the problem and not something which can be postponed or delegated to AI systems.
 
@@ -66,7 +66,7 @@ To this end, we draw on a range of sophisticated thinking that has already been 
 
 **Theia Pearson-Vogel**, **Martin Vaněk**, **Raymond Douglas**, **Jan Kulveit**: *Latent Introspection: Models Can Detect Prior Concept Injections.* February 2026, [arXiv](https://arxiv.org/abs/2602.20031), [ICML 2026 Mechanistic Interpretability Workshop poster](https://mechinterpworkshop.com/poster-pdfs/660.pdf)
 
-Mrinank Sharma, Miles McCain, **Raymond Douglas**, David Duvenaud: *Who's in Charge? Disempowerment Patterns in Real-World LLM Usage.* January 2026, [arXiv](https://arxiv.org/abs/2601.19062)
+Mrinank Sharma, Miles McCain, **Raymond Douglas**, David Duvenaud: *Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage.* January 2026, [arXiv](https://arxiv.org/abs/2601.19062)
 
 Walter Laurito, Benjamin Davis, Peli Grietzer, **Tomáš Gavenčiak**, **Ada Böhm**, **Jan Kulveit**: *AI-AI Bias: Large Language Models Favor Communications Generated by Large Language Models.* July 2025, [PNAS](https://www.pnas.org/doi/10.1073/pnas.2415697122). Previous versions at [arXiv](https://arxiv.org/abs/2407.12856), [ICML 2024 HADMS workshop](https://humans-algs-society.github.io/)
 
