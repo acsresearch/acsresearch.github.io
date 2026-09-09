@@ -14,7 +14,7 @@ Currently, we are hiring for three roles:
 * [Researcher - LLM Psychology & Sociology](#researcher---llm-psychology--sociology)
 * [Machine Learning Researcher - AI Psychology & Agent Foundations](#machine-learning-researcher---ai-psychology--agent-foundations)
 
-[Apply](https://forms.gle/JxMbd9WBP6DiRezQA)
+*Applications for this round are closed.*
 
 Location: Prague, London or San Francisco Bay Area
 
@@ -88,7 +88,7 @@ To apply, please submit the following by **October 28th**:
 
 The preferred start date is December 2025 or January 2026.
 
-[Apply](https://forms.gle/JxMbd9WBP6DiRezQA)
+*Applications for this round are closed.*
 
 ---
 
@@ -139,7 +139,7 @@ To apply, please submit the following by **October 28th**:
 
 The preferred start date is December 2025 or January 2026.
 
-[Apply](https://forms.gle/JxMbd9WBP6DiRezQA)
+*Applications for this round are closed.*
 
 ---
 
@@ -185,4 +185,4 @@ To apply, please submit the following by **October 28th**:
 
 The preferred start date is December 2025 or January 2026.
 
-[Apply](https://forms.gle/JxMbd9WBP6DiRezQA)
+*Applications for this round are closed.*
