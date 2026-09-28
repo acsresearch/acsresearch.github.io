@@ -62,6 +62,8 @@ To this end, we draw on a range of sophisticated thinking that has already been 
 
 # Our Publications
 
+**Raymond Douglas**, Charles Dillon, Nikola Moore, **Gavin Leech**, Shahar Avin, Mathias Kirk Bonde, Rohit Krishnan, Noah Perez, Nathan Young, Cormac Slade Byrd, Stephen Casper, **Jan Kulveit**, David Duvenaud: *Pacing the Frontier: A Framework & Research Agenda.* September 2026, [website](https://pacing.tech), [PDF](https://pacing.tech/pacing-the-frontier.pdf)
+
 **Jan Kulveit**, **Gavin Leech**, **Tomáš Gavenčiak**, **Raymond Douglas**: *Position: AI Evaluation Should Work With Humans.* July 2026, [arXiv](https://arxiv.org/abs/2608.13577)
 
 **Jan Kulveit**, **Raymond Douglas**, **Ondřej Havlíček**, **Theia Pearson-Vogel**, Owen Cotton-Barratt, David Duvenaud: *The Artificial Self: Characterising the landscape of AI identity.* March 2026, [arXiv](https://arxiv.org/abs/2603.11353), [website](https://theartificialself.ai/)
