@@ -3,7 +3,6 @@ title: "ACS Infra: free access to large base models for LLM psychology research"
 author: "Martin Vaněk, Jan Kulveit, Ondřej Havlíček, Ivar Frisch, Veronika Hendrychová, Theia Vogel, Raymond Douglas, Charles Amis, Faw Ali"
 date: 2026-10-20
 tags: [ACS Infra, Base models, LLM psychology]
-hide: true
 ---
 
 *TL;DR: We're opening a platform serving large open base models to researchers and tinkerers working on LLM psychology and adjacent areas. It's free and comes with logprobs, activation harvesting and steering, a browser workbench and a loom. Read [here](/posts/intro-to-lm-psychology) what research we’d like to see and apply for access at [https://infra.acsresearch.org/signup](https://infra.acsresearch.org/signup).*
@@ -61,6 +60,7 @@ In general, we plan to iterate significantly based on feedback and on what turns
 - **Apply** if you'd use it: [infra.acsresearch.org/signup](https://infra.acsresearch.org/signup)
   - **If you run a program** (MATS, PIBBSS, a reading group, a course) and would like a batch of accounts, email us [infra@acsresearch.org](mailto:infra@acsresearch.org).
 - Tell us if there are things that might be within the scope of the platform and could be highly useful for similar research
+- If you'd like to work with us, you can [express interest here](https://forms.gle/W2ZtULyL5oxZnFqE7).
 
 *Thanks to our beta testers for testing and feedback, and to Coefficient Giving for funding the platform.*
 

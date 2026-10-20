@@ -3,7 +3,6 @@ title: "A brief(ish) introduction to LM psychology"
 author: Raymond Douglas, Jan Kulveit
 date: 2026-10-20
 tags: [LLM psychology, Reading list]
-hide: true
 ---
 
 - [Why LM Psychology?](#why-lm-psychology)
@@ -261,4 +260,4 @@ There also few other related lists, often overlapping, but driven by somewhat di
 - [**Open Problems in Mechanistic Interpretability**](https://arxiv.org/abs/2501.16496), Sharkey et al., TMLR 2025. Canonical methods list.
 - [**Character Garden reading list**](https://charactergarden.com/reading), which ends with a short list of gaps that are still folklore, such as how to prompt a base model into a character.
 
-_Thanks to David Africa, Andrew Draganov, Uzay Girit, Fiora Starlight, Oliver Klingefjord, Theia Pearson-Vogel, Annie Stephenson, Ondřej Havlíček, Ivar Frisch, and Martin Vaněk for helpful comments and suggestions._
+_Thanks to David Africa, Andrew Draganov, Uzay Girit, Fiora Starlight, Oliver Klingefjord, Theia Pearson-Vogel, Annie Stephenson, Ondřej Havlíček, Ivar Frisch, and Martin Vaněk for helpful comments and suggestions. If you're interested in doing this kind of work, consider [applying to ACS](https://forms.gle/W2ZtULyL5oxZnFqE7)!_
